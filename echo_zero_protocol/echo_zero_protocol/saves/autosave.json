@@ -1,0 +1,173 @@
+{
+  "version": 1,
+  "player": {
+    "x": 1717.2,
+    "y": 464.3,
+    "health": 88,
+    "max_health": 100,
+    "stamina": 24.7,
+    "energy": 70,
+    "ammo": 18,
+    "max_ammo": 48,
+    "flashlight_on": false
+  },
+  "weapon": "PULSE PISTOL",
+  "inventory": {
+    "medkit": 5,
+    "ammo_pack": 1,
+    "energy_cell": 1
+  },
+  "behavior": {
+    "aggression": 100,
+    "stealth": 100,
+    "exploration": 100,
+    "risk_taking": 30.0,
+    "resource_usage": 48,
+    "kills": 9,
+    "shots_fired": 62,
+    "terminals_accessed": 4,
+    "evidence_found": 4,
+    "rooms_visited": [],
+    "items_used": 4,
+    "play_time": 120.0
+  },
+  "echo": {
+    "trust": 83.0,
+    "memories": [
+      {
+        "event": "kill",
+        "detail": "kills: 1"
+      },
+      {
+        "event": "kill",
+        "detail": "kills: 2"
+      },
+      {
+        "event": "kill",
+        "detail": "kills: 3"
+      },
+      {
+        "event": "evidence",
+        "detail": "evidence #1"
+      },
+      {
+        "event": "kill",
+        "detail": "kills: 4"
+      },
+      {
+        "event": "kill",
+        "detail": "kills: 5"
+      },
+      {
+        "event": "kill",
+        "detail": "kills: 6"
+      },
+      {
+        "event": "evidence",
+        "detail": "evidence #2"
+      },
+      {
+        "event": "kill",
+        "detail": "kills: 7"
+      },
+      {
+        "event": "kill",
+        "detail": "kills: 8"
+      },
+      {
+        "event": "evidence",
+        "detail": "evidence #3"
+      },
+      {
+        "event": "kill",
+        "detail": "kills: 9"
+      },
+      {
+        "event": "evidence",
+        "detail": "evidence #4"
+      }
+    ]
+  },
+  "story_flags": {},
+  "story": {
+    "chapter": 1,
+    "terminal_index": 3,
+    "recordings_found": [
+      "rec_ch1_1",
+      "rec_ch1_2",
+      "rec_ch1_3",
+      "rec_ch1_4"
+    ],
+    "story_flags": {},
+    "recording_counters": {
+      "0": 0,
+      "1": 4
+    }
+  },
+  "world": {
+    "open_doors": [
+      [
+        3,
+        8
+      ],
+      [
+        3,
+        18
+      ],
+      [
+        3,
+        29
+      ],
+      [
+        6,
+        16
+      ],
+      [
+        6,
+        33
+      ],
+      [
+        9,
+        6
+      ],
+      [
+        11,
+        20
+      ]
+    ],
+    "used_terminals": [
+      [
+        4,
+        21
+      ],
+      [
+        12,
+        5
+      ],
+      [
+        13,
+        18
+      ]
+    ],
+    "used_recordings": [
+      [
+        3,
+        12
+      ],
+      [
+        4,
+        35
+      ],
+      [
+        11,
+        3
+      ],
+      [
+        14,
+        20
+      ]
+    ]
+  },
+  "objective": "Explore the Research Wing. Find Dr. Voss's recordings.",
+  "enemies_killed": 0
+}

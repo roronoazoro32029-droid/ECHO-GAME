@@ -1,0 +1,105 @@
+{
+  "version": 1,
+  "player": {
+    "x": 1609.5,
+    "y": 808.7,
+    "health": 70,
+    "max_health": 100,
+    "stamina": 100,
+    "energy": 10,
+    "ammo": 0,
+    "max_ammo": 48,
+    "flashlight_on": false
+  },
+  "weapon": "PULSE PISTOL",
+  "inventory": {
+    "medkit": 2,
+    "ammo_pack": 3
+  },
+  "behavior": {
+    "aggression": 100,
+    "stealth": 30.0,
+    "exploration": 70,
+    "risk_taking": 30.0,
+    "resource_usage": 0,
+    "kills": 3,
+    "shots_fired": 32,
+    "terminals_accessed": 1,
+    "evidence_found": 1,
+    "rooms_visited": [],
+    "items_used": 0,
+    "play_time": 47.9
+  },
+  "echo": {
+    "trust": 56.0,
+    "memories": [
+      {
+        "e": "kill"
+      },
+      {
+        "e": "kill"
+      },
+      {
+        "e": "kill"
+      }
+    ]
+  },
+  "story_flags": {},
+  "story": {
+    "chapter": 1,
+    "terminal_index": 0,
+    "recordings_found": [
+      "rec_ch0_1"
+    ],
+    "story_flags": {},
+    "recording_counters": {
+      "0": 1,
+      "1": 0
+    }
+  },
+  "world": {
+    "open_doors": [
+      [
+        3,
+        6
+      ],
+      [
+        3,
+        12
+      ],
+      [
+        3,
+        28
+      ],
+      [
+        4,
+        19
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        6,
+        16
+      ],
+      [
+        8,
+        30
+      ]
+    ],
+    "used_terminals": [
+      [
+        4,
+        9
+      ]
+    ],
+    "used_recordings": [
+      [
+        5,
+        27
+      ]
+    ]
+  },
+  "objective": "Find a way out of Medical Sector A."
+}
